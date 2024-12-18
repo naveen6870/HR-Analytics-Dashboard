@@ -26,6 +26,15 @@ Employees earning up to $5K/month experience the highest attrition (163 employee
 Peaks observed for employees with 1 year and 5 years of service.
 #### 📊 Attrition by Job Role:
 Roles with significant attrition include:
-Laboratory Technician: 62 employees
-Sales Executive: 57 employees
+Laboratory Technician: 62 employees,
+Sales Executive: 57 employees,
 Research Scientist: 47 employees
+### 📊 Gender Distribution:
+Male: 140 employees,
+Female: 79 employees
+
+# Impact:
+This dashboard provides HR leaders with actionable insights to:
+✔ Identify vulnerable employee segments
+✔ Optimize salary structures and employee retention programs
+✔ Develop role-specific interventions to reduce attrition
