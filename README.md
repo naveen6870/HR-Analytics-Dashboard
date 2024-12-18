@@ -35,6 +35,6 @@ Female: 79 employees
 
 # Impact:
 This dashboard provides HR leaders with actionable insights to:
-✔ Identify vulnerable employee segments
-✔ Optimize salary structures and employee retention programs
-✔ Develop role-specific interventions to reduce attrition
+✔ Identify vulnerable employee segments,
+✔ Optimize salary structures and employee retention programs,
+✔ Develop role-specific interventions to reduce attrition.
