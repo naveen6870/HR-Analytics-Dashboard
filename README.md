@@ -29,7 +29,7 @@ Roles with significant attrition include:
 Laboratory Technician: 62 employees,
 Sales Executive: 57 employees,
 Research Scientist: 47 employees
-### 📊 Gender Distribution:
+#### 📊 Gender Distribution:
 Male: 140 employees,
 Female: 79 employees
 
